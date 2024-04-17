@@ -1,0 +1,112 @@
+.embla {
+  max-width: 100%;
+  margin: auto;
+  --slide-height: 28rem;
+  --slide-spacing: 1rem;
+  --slide-size: 25%;
+}
+.embla__viewport {
+  overflow: hidden;
+}
+.embla__container {
+  backface-visibility: hidden;
+  display: flex;
+  touch-action: pan-y;
+  width: 100%;
+  margin-left: calc(var(--slide-spacing) * -1);
+}
+.embla__slide {
+  flex: 0 0 104%;
+  min-width: 0;
+  max-width: fit-content;
+  padding-left: var(--slide-spacing);
+}
+@media (min-width: 768px) {
+  .embla__slide {
+    flex: 0 0 50%;
+  }
+}
+.embla__slide__number {
+  width: fit-content;
+  box-shadow: inset 0 0 0 0.2rem var(--detail-medium-contrast);
+  border-radius: 1.8rem;
+  font-size: 4rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: var(--slide-height);
+  /* border: 1px solid black; */
+}
+.embla__controls {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column-reverse;
+  margin-top: 1.8rem;
+}
+@media (min-width: 768px) {
+  .embla__controls {
+    flex-direction: row;
+  }
+}
+.embla__buttons {
+  display: flex;
+  justify-content: center;
+  gap: 0.6rem;
+  align-items: center;
+}
+.progress_text {
+  font-size: x-small;
+  color: #6c6c6c;
+  text-wrap: nowrap;
+}
+.embla__button {
+  -webkit-tap-highlight-color: rgba(var(--text-high-contrast-rgb-value), 0.5);
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  touch-action: manipulation;
+  display: inline-flex;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  box-shadow: inset 0 0 0 0.2rem var(--detail-medium-contrast);
+  width: 25px;
+  height: 25px;
+  z-index: 1;
+  border-radius: 50%;
+  border: none;
+  color: var(--text-body);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.embla__button:disabled {
+  color: var(--detail-high-contrast);
+}
+.embla__button__svg {
+  width: 35%;
+  height: 35%;
+}
+.embla__progress {
+  border-radius: 1.8rem;
+  box-shadow: inset 0 0 0 0.2rem var(--detail-medium-contrast);
+  background-color: var(--background-site);
+  position: relative;
+  height: 2px;
+  justify-self: flex-end;
+  align-self: center;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  background-color: #e1e2e3;
+}
+.embla__progress__bar {
+  background-color: #98002e;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: -100%;
+}

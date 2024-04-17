@@ -1,0 +1,1353 @@
+ {
+	"properties": [
+		{
+			"id": 1,
+			"name": "Sunrise Plaza",
+			"categories": ["Business"],
+			"price": {
+				"total": 3086317,
+				"perSqFt": 789
+			},
+			"sizeInSqFt": 7374,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["/1.jpg"],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-13.836296641741328",
+				"longitude": "12.540932160427303"
+			}
+		},
+		{
+			"id": 2,
+			"name": "Sunrise Plaza",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 3901361,
+				"perSqFt": 330
+			},
+			"sizeInSqFt": 6394,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-63.84584066236346",
+				"longitude": "-132.66589256327865"
+			}
+		},
+		{
+			"id": 3,
+			"name": "Sunrise Plaza",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 3838353,
+				"perSqFt": 337
+			},
+			"sizeInSqFt": 2158,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image1.jpg",
+				"https://example.com/image3.jpg",
+				"https://example.com/image2.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-51.84029838788177",
+				"longitude": "-134.99705679668028"
+			}
+		},
+		{
+			"id": 4,
+			"name": "Starfield Building",
+			"categories": ["Business"],
+			"price": {
+				"total": 3306056,
+				"perSqFt": 514
+			},
+			"sizeInSqFt": 1648,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": ["https://example.com/image2.jpg"],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "27.858966803824615",
+				"longitude": "78.56281748942274"
+			}
+		},
+		{
+			"id": 5,
+			"name": "Starfield Building",
+			"categories": ["Retail"],
+			"price": {
+				"total": 4856842,
+				"perSqFt": 210
+			},
+			"sizeInSqFt": 1304,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image1.jpg",
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "21.631690079835636",
+				"longitude": "-95.7146149462906"
+			}
+		},
+		{
+			"id": 6,
+			"name": "Oceanview Complex",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 4545212,
+				"perSqFt": 328
+			},
+			"sizeInSqFt": 4056,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": ["https://example.com/image2.jpg"],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-73.3145602249483",
+				"longitude": "-145.13823081650656"
+			}
+		},
+		{
+			"id": 7,
+			"name": "Moonlight Tower",
+			"categories": ["Retail"],
+			"price": {
+				"total": 2604459,
+				"perSqFt": 644
+			},
+			"sizeInSqFt": 7684,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": ["https://example.com/image1.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "85.8446397199913",
+				"longitude": "65.83043766208164"
+			}
+		},
+		{
+			"id": 8,
+			"name": "Starfield Building",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 3067338,
+				"perSqFt": 769
+			},
+			"sizeInSqFt": 3020,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "64.70876737040095",
+				"longitude": "-65.6859468092927"
+			}
+		},
+		{
+			"id": 9,
+			"name": "Mountain High Office",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 1632505,
+				"perSqFt": 935
+			},
+			"sizeInSqFt": 2229,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg",
+				"https://example.com/image2.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "24.0618992141966",
+				"longitude": "179.33726189287847"
+			}
+		},
+		{
+			"id": 10,
+			"name": "Starfield Building",
+			"categories": ["Office"],
+			"price": {
+				"total": 3669972,
+				"perSqFt": 414
+			},
+			"sizeInSqFt": 3921,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "41.90326079247174",
+				"longitude": "51.62033269335535"
+			}
+		},
+		{
+			"id": 11,
+			"name": "Oceanview Complex",
+			"categories": ["Retail", "Industrial"],
+			"price": {
+				"total": 3584347,
+				"perSqFt": 210
+			},
+			"sizeInSqFt": 9288,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "34.051626283664206",
+				"longitude": "108.42449247547142"
+			}
+		},
+		{
+			"id": 12,
+			"name": "Sunrise Plaza",
+			"categories": ["Retail"],
+			"price": {
+				"total": 1756919,
+				"perSqFt": 647
+			},
+			"sizeInSqFt": 7246,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "39.411552942797385",
+				"longitude": "-108.96236029391783"
+			}
+		},
+		{
+			"id": 13,
+			"name": "Oceanview Complex",
+			"categories": ["Office"],
+			"price": {
+				"total": 2831502,
+				"perSqFt": 544
+			},
+			"sizeInSqFt": 2238,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image1.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-44.00646070091744",
+				"longitude": "-12.00835538999965"
+			}
+		},
+		{
+			"id": 14,
+			"name": "Moonlight Tower",
+			"categories": ["Business"],
+			"price": {
+				"total": 3821056,
+				"perSqFt": 375
+			},
+			"sizeInSqFt": 4748,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg",
+				"https://example.com/image2.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-83.5591311804227",
+				"longitude": "-28.39172504825902"
+			}
+		},
+		{
+			"id": 15,
+			"name": "Moonlight Tower",
+			"categories": ["Retail", "Industrial"],
+			"price": {
+				"total": 3135346,
+				"perSqFt": 808
+			},
+			"sizeInSqFt": 3186,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image3.jpg",
+				"https://example.com/image2.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-20.958933786229267",
+				"longitude": "131.47384276267246"
+			}
+		},
+		{
+			"id": 16,
+			"name": "Moonlight Tower",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 1268662,
+				"perSqFt": 388
+			},
+			"sizeInSqFt": 7100,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "47.6564175679257",
+				"longitude": "-77.94961752945268"
+			}
+		},
+		{
+			"id": 17,
+			"name": "Sunrise Plaza",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 4611455,
+				"perSqFt": 470
+			},
+			"sizeInSqFt": 8766,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "21.907030353645965",
+				"longitude": "109.47755824474092"
+			}
+		},
+		{
+			"id": 18,
+			"name": "Oceanview Complex",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 2242222,
+				"perSqFt": 527
+			},
+			"sizeInSqFt": 5057,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image3.jpg",
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "24.643899188516755",
+				"longitude": "82.18715181277639"
+			}
+		},
+		{
+			"id": 19,
+			"name": "Moonlight Tower",
+			"categories": ["Retail"],
+			"price": {
+				"total": 2025649,
+				"perSqFt": 887
+			},
+			"sizeInSqFt": 6489,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image1.jpg"],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-65.36885244108474",
+				"longitude": "-34.93977772600212"
+			}
+		},
+		{
+			"id": 20,
+			"name": "Sunrise Plaza",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 1110786,
+				"perSqFt": 451
+			},
+			"sizeInSqFt": 9077,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image3.jpg",
+				"https://example.com/image2.jpg"
+			],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-63.82871239796586",
+				"longitude": "45.40754105831809"
+			}
+		},
+		{
+			"id": 21,
+			"name": "Sunrise Plaza",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 2493894,
+				"perSqFt": 311
+			},
+			"sizeInSqFt": 5967,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-27.505915864818",
+				"longitude": "132.06045536377366"
+			}
+		},
+		{
+			"id": 22,
+			"name": "Starfield Building",
+			"categories": ["Business"],
+			"price": {
+				"total": 3979065,
+				"perSqFt": 350
+			},
+			"sizeInSqFt": 7828,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "0.026454013173932367",
+				"longitude": "0.6081858016142689"
+			}
+		},
+		{
+			"id": 23,
+			"name": "Moonlight Tower",
+			"categories": ["Office"],
+			"price": {
+				"total": 2821929,
+				"perSqFt": 771
+			},
+			"sizeInSqFt": 4222,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "20.42127682230823",
+				"longitude": "-165.85087573435774"
+			}
+		},
+		{
+			"id": 24,
+			"name": "Mountain High Office",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 3146976,
+				"perSqFt": 982
+			},
+			"sizeInSqFt": 2278,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": ["https://example.com/image2.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "19.871241296485977",
+				"longitude": "-150.6024734953011"
+			}
+		},
+		{
+			"id": 25,
+			"name": "Mountain High Office",
+			"categories": ["Business"],
+			"price": {
+				"total": 3013719,
+				"perSqFt": 819
+			},
+			"sizeInSqFt": 5996,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "64.4197646103828",
+				"longitude": "121.31466201505765"
+			}
+		},
+		{
+			"id": 26,
+			"name": "Sunrise Plaza",
+			"categories": ["Business"],
+			"price": {
+				"total": 4854755,
+				"perSqFt": 297
+			},
+			"sizeInSqFt": 1176,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-3.0840734853077834",
+				"longitude": "-61.27258443425987"
+			}
+		},
+		{
+			"id": 27,
+			"name": "Oceanview Complex",
+			"categories": ["Business"],
+			"price": {
+				"total": 2387622,
+				"perSqFt": 629
+			},
+			"sizeInSqFt": 4646,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image1.jpg",
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-62.029165974132084",
+				"longitude": "48.29140405801118"
+			}
+		},
+		{
+			"id": 28,
+			"name": "Moonlight Tower",
+			"categories": ["Retail"],
+			"price": {
+				"total": 4789473,
+				"perSqFt": 557
+			},
+			"sizeInSqFt": 8677,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "29.11332350728776",
+				"longitude": "120.39013099389928"
+			}
+		},
+		{
+			"id": 29,
+			"name": "Starfield Building",
+			"categories": ["Business"],
+			"price": {
+				"total": 4217827,
+				"perSqFt": 892
+			},
+			"sizeInSqFt": 3195,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": ["https://example.com/image2.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "51.12774316742966",
+				"longitude": "-116.58833602567125"
+			}
+		},
+		{
+			"id": 30,
+			"name": "Sunrise Plaza",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 1131993,
+				"perSqFt": 637
+			},
+			"sizeInSqFt": 9734,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": ["https://example.com/image1.jpg"],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "52.77069322032446",
+				"longitude": "74.88204914933988"
+			}
+		},
+		{
+			"id": 31,
+			"name": "Oceanview Complex",
+			"categories": ["Office"],
+			"price": {
+				"total": 3537561,
+				"perSqFt": 969
+			},
+			"sizeInSqFt": 5105,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "48.35820537268938",
+				"longitude": "-45.40888149414596"
+			}
+		},
+		{
+			"id": 32,
+			"name": "Moonlight Tower",
+			"categories": ["Retail", "Industrial"],
+			"price": {
+				"total": 1321238,
+				"perSqFt": 404
+			},
+			"sizeInSqFt": 5162,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-60.26107864034014",
+				"longitude": "140.50304262571933"
+			}
+		},
+		{
+			"id": 33,
+			"name": "Moonlight Tower",
+			"categories": ["Retail", "Industrial"],
+			"price": {
+				"total": 3296374,
+				"perSqFt": 305
+			},
+			"sizeInSqFt": 9302,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image2.jpg"],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-12.916405236010831",
+				"longitude": "-114.65291629552361"
+			}
+		},
+		{
+			"id": 34,
+			"name": "Oceanview Complex",
+			"categories": ["Retail"],
+			"price": {
+				"total": 2136806,
+				"perSqFt": 467
+			},
+			"sizeInSqFt": 1690,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image1.jpg",
+				"https://example.com/image2.jpg"
+			],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "30.846729175122448",
+				"longitude": "-145.2369319751321"
+			}
+		},
+		{
+			"id": 35,
+			"name": "Oceanview Complex",
+			"categories": ["Retail", "Industrial"],
+			"price": {
+				"total": 4103661,
+				"perSqFt": 392
+			},
+			"sizeInSqFt": 2942,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "28.038134684962515",
+				"longitude": "-150.89723057971526"
+			}
+		},
+		{
+			"id": 36,
+			"name": "Moonlight Tower",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 4652183,
+				"perSqFt": 949
+			},
+			"sizeInSqFt": 9753,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image1.jpg",
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "22.359443424880794",
+				"longitude": "122.58082081727741"
+			}
+		},
+		{
+			"id": 37,
+			"name": "Sunrise Plaza",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 4160579,
+				"perSqFt": 609
+			},
+			"sizeInSqFt": 9889,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "77.59064459300464",
+				"longitude": "-60.37637261793439"
+			}
+		},
+		{
+			"id": 38,
+			"name": "Mountain High Office",
+			"categories": ["Retail"],
+			"price": {
+				"total": 3271082,
+				"perSqFt": 305
+			},
+			"sizeInSqFt": 6297,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": ["https://example.com/image2.jpg"],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-23.837975744362396",
+				"longitude": "-142.04407015225223"
+			}
+		},
+		{
+			"id": 39,
+			"name": "Moonlight Tower",
+			"categories": ["Retail"],
+			"price": {
+				"total": 3309679,
+				"perSqFt": 992
+			},
+			"sizeInSqFt": 8149,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "57.41139023677505",
+				"longitude": "44.51212216061677"
+			}
+		},
+		{
+			"id": 40,
+			"name": "Oceanview Complex",
+			"categories": ["Retail"],
+			"price": {
+				"total": 4130185,
+				"perSqFt": 838
+			},
+			"sizeInSqFt": 1884,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-70.12288017128247",
+				"longitude": "-153.8622607312148"
+			}
+		},
+		{
+			"id": 41,
+			"name": "Sunrise Plaza",
+			"categories": ["Office"],
+			"price": {
+				"total": 4493581,
+				"perSqFt": 531
+			},
+			"sizeInSqFt": 1429,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "68.34336013218828",
+				"longitude": "155.36512937748034"
+			}
+		},
+		{
+			"id": 42,
+			"name": "Starfield Building",
+			"categories": ["Office"],
+			"price": {
+				"total": 4492119,
+				"perSqFt": 847
+			},
+			"sizeInSqFt": 2520,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image3.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-44.85432515216311",
+				"longitude": "-27.103815145917707"
+			}
+		},
+		{
+			"id": 43,
+			"name": "Mountain High Office",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 2652340,
+				"perSqFt": 611
+			},
+			"sizeInSqFt": 9122,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "16.181637100260104",
+				"longitude": "-61.214798347551735"
+			}
+		},
+		{
+			"id": 44,
+			"name": "Oceanview Complex",
+			"categories": ["Retail"],
+			"price": {
+				"total": 2122672,
+				"perSqFt": 772
+			},
+			"sizeInSqFt": 7251,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-22.08243808480377",
+				"longitude": "119.4535166505396"
+			}
+		},
+		{
+			"id": 45,
+			"name": "Sunrise Plaza",
+			"categories": ["Office"],
+			"price": {
+				"total": 4461045,
+				"perSqFt": 902
+			},
+			"sizeInSqFt": 7332,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image3.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "82.62561747326825",
+				"longitude": "-44.91205363070105"
+			}
+		},
+		{
+			"id": 46,
+			"name": "Mountain High Office",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 2863506,
+				"perSqFt": 573
+			},
+			"sizeInSqFt": 7031,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image1.jpg",
+				"https://example.com/image2.jpg"
+			],
+			"description": "Located in the heart of the commercial district, surrounded by bustling marketplaces.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "75.08384481661372",
+				"longitude": "-44.46016874992452"
+			}
+		},
+		{
+			"id": 47,
+			"name": "Starfield Building",
+			"categories": ["Business"],
+			"price": {
+				"total": 1408794,
+				"perSqFt": 729
+			},
+			"sizeInSqFt": 8044,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "Alex Johnson",
+				"contact": "+1122334455",
+				"email": "alexjohnson@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "88.2452521505534",
+				"longitude": "84.50357443499956"
+			}
+		},
+		{
+			"id": 48,
+			"name": "Starfield Building",
+			"categories": ["Industrial"],
+			"price": {
+				"total": 1751143,
+				"perSqFt": 739
+			},
+			"sizeInSqFt": 1227,
+			"status": ["For Sale", "For Lease"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": ["https://example.com/image1.jpg"],
+			"description": "Offers a unique blend of spaces in a prime location, ideal for businesses looking to expand.",
+			"address": "456 Grand Avenue, Metropolis, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "85.11876268333648",
+				"longitude": "62.96545087637119"
+			}
+		},
+		{
+			"id": 49,
+			"name": "Moonlight Tower",
+			"categories": ["Business", "Office"],
+			"price": {
+				"total": 2094521,
+				"perSqFt": 398
+			},
+			"sizeInSqFt": 3462,
+			"status": ["For Lease"],
+			"brokerInfo": {
+				"name": "John Doe",
+				"contact": "+1234567890",
+				"email": "johndoe@example.com"
+			},
+			"images": ["https://example.com/image1.jpg"],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "123 Main Street, City, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "25.009387754917938",
+				"longitude": "110.01135340623472"
+			}
+		},
+		{
+			"id": 50,
+			"name": "Moonlight Tower",
+			"categories": ["Retail", "Industrial"],
+			"price": {
+				"total": 4963051,
+				"perSqFt": 938
+			},
+			"sizeInSqFt": 1538,
+			"status": ["For Sale"],
+			"brokerInfo": {
+				"name": "Jane Smith",
+				"contact": "+0987654321",
+				"email": "janesmith@example.com"
+			},
+			"images": [
+				"https://example.com/image2.jpg",
+				"https://example.com/image1.jpg",
+				"https://example.com/image3.jpg"
+			],
+			"description": "A modern design with state-of-the-art facilities, perfect for investors and businesses.",
+			"address": "789 Riverside Drive, Townsville, Country",
+			"opportunity": "A lucrative opportunity for both investors and tenants, providing high visibility and access to major highways.",
+			"locationDetails": "In a vibrant commercial district, surrounded by marketplaces, dining options, and main attractions.",
+			"mapLocation": {
+				"latitude": "-81.92066546359571",
+				"longitude": "23.612529614676674"
+			}
+		}
+	]
+}
