@@ -98,7 +98,7 @@ const Navbar: React.FC<{ isTransparent: boolean; showX?: boolean }> = ({
 								{/* <li className="relative">Our Projects</li> */}
 
 								<Link className="relative" href="/our-staff">
-									Our Staff
+									Our Team
 								</Link>
 								{/* {isAboutDropdownOpen && <Dropdown links={aboutLinks} />} */}
 							</div>
@@ -188,7 +188,7 @@ const Navbar: React.FC<{ isTransparent: boolean; showX?: boolean }> = ({
 									</div>
 									<ul className="menu mt-8 gap-5 text-[#ffffff]">
 										<li>
-											<Link href="/our-staff">Our Staff</Link>
+											<Link href="/our-staff">Our Team</Link>
 										</li>
 										<li>
 											<Link href="/news">News</Link>
